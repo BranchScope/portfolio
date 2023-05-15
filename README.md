@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# BranchScope's Portfolio
+This is the source code of my portfolio built with [React.js](https://react.dev) and [Tailwind CSS](https://tailwindcss.com)
 
 ## Available Scripts
 
